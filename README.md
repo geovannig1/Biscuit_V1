@@ -39,3 +39,11 @@ Following files will be created
 /usr/local/bin/biscuit
 ```
 
+## Windows
+no installation file yet  
+run manually:  
+```
+cd ./biscuit/binaries
+java -jar biscuit.jar
+```
+
