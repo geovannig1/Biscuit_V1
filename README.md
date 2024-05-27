@@ -22,3 +22,7 @@ Is a free command line interface tool for software project management. This proj
 
 
 
+# Requirements
+Java 1.8
+
+
