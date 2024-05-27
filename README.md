@@ -26,3 +26,16 @@ Is a free command line interface tool for software project management. This proj
 Java 1.8
 
 
+# Installation
+## Linux
+```
+cd ./biscuit/binaries
+chmod +x ./setup.sh
+./setup.sh
+```
+Following files will be created
+```
+/usr/local/bin/biscuit.jar
+/usr/local/bin/biscuit
+```
+
